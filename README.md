@@ -1,5 +1,6 @@
 # CS2-LAN-2025
 
+Hier mit Linux (Ubuntu).
 Original Doku von Valve: https://developer.valvesoftware.com/wiki/Counter-Strike_2/Dedicated_Servers
 
 ## Steamcmd für Ubuntu installieren: 

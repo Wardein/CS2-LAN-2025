@@ -51,3 +51,14 @@ In meinem Fall kann cs2 den **steamclient.so** nicht finden, weil ein Falsche Pf
 ```bash
 ln -s /home/steam/.steam/steam/steamcmd/linux64 /home/steam/.steam/sdk64
 ```
+
+Um die Practice und Competetive Configs zu nutzen sollten die .cfg Dateien in
+**/home/steam/cs2server/game/game/csgo/cfg/** abgelegt werden.
+
+Practice starten:           ```exec prac```
+Competeive Modus starten:   ```exec comp```
+Competetive Match starten:  ```exec gogogo```
+
+
+
+

@@ -6,4 +6,5 @@ cd /home/steam/cs2/game/bin/linuxsteamrt64
   +sv_lan 1 \
   +hostname "Sommerlan2025" \
   +game_alias competitive \
-  -port 27015
+  -port 27015 \
+  

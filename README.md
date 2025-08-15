@@ -57,7 +57,9 @@ Um die Practice und Competetive Configs zu nutzen sollten die .cfg Dateien in
 **/home/steam/cs2server/game/game/csgo/cfg/** abgelegt werden.
 
 Practice starten:           ```exec prac```
+
 Competeive Modus starten:   ```exec comp```
+
 Competetive Match starten:  ```exec gogogo```
 
 
